@@ -29,8 +29,8 @@ images:
 slideshow:               "show.qml"
 
 style:
-   sidebarBackground:    "#2c3133"
-   sidebarText:          "#FFFFFF"
+   sidebarBackground:    "#FFFFFF"
+   sidebarText:          "#000000"
    sidebarTextSelect:    "#4d7079"
    sidebarTextSelect:    "#292F34"
 
