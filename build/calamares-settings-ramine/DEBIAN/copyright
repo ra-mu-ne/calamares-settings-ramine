@@ -1,0 +1,11 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: calamares-settings-ramine
+Source: https://github.com/ra-mu-ne/calamares-settings-ramine
+
+Files: *
+Copyright: 2024 rock-db <rock-db@outlook.jp>
+License: GPL-3+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ any later version.

@@ -1,0 +1,11 @@
+Package: calamares-settings-ramine
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: calamares
+Maintainer: rock-db <rock-db@outlook.jp>
+Description: Calamares configuration files
+ Calamares configuration files for Ramine Linux
+
+
