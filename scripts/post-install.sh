@@ -15,8 +15,9 @@ cat <<EOF > "/etc/apt/sources.list"
 #
 EOF
 
-
 mv /etc/ligthdm/lightdm.conf.bak /etc/lightdm/lightdm.conf
+
+rm -rfv /etc/calamares
 
 userdel -r live
 
