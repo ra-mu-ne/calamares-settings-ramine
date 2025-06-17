@@ -5,7 +5,6 @@ echo "Calamares post-install script running..."
 
 apt remove -y calamares squashfs-tools
 
-mv /etc/apt/sources.list /etc/apt/sources.list.d/debian.list
 
 cat /dev/null > /etc/apt/sources.list
 cat <<EOF > "/etc/apt/sources.list" 
